@@ -1,1 +1,1 @@
-# tienda.github.io
+![preview img](/tienda.png)
